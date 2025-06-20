@@ -30,7 +30,6 @@ public class Main {
 ////            System.out.println(list);
 //            System.out.println((list.get((int) ((b - 1) % list.size()))));
 //        };
-
         System.out.println(pow(a, b, c));
     }
 
